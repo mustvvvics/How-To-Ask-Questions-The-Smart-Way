@@ -1,10 +1,18 @@
 # 提问的智慧
 
+
+[提问的智慧中文简版](提问的智慧zh.md)
+
+
+
+---
+
 #### 艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）
 
 Thyrsus Enterprises
 
 <esr@thyrsus.com>
+
 #### 瑞克.莫恩（Rick Moen）
 
 
